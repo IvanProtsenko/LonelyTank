@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/images">
+        <file>images/Cannon_Ball.png</file>
+        <file>images/tank.png</file>
+    </qresource>
+</RCC>
